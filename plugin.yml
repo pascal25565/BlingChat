@@ -1,0 +1,10 @@
+name: BlingChat
+version: 1.4
+author: pascal25565
+main: de.pascal25565.blingchat.main
+
+
+
+commands:
+    blingchat:
+        aliases: [blingc]
